@@ -9,6 +9,8 @@ import collectionConnectionQuery from './collection-connection-query';
 import ProductHelpers from './product-helpers';
 import checkoutQuery from './checkout-query';
 
+export {default as Config} from './config';
+
 /**
  * @class Client
  */
